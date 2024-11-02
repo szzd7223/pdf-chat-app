@@ -45,7 +45,7 @@ GET  /api/documents - Retrieve list of uploaded documents
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/szzd7223/pdf-chat-app.git
 ```
 
 2. Install backend dependencies
